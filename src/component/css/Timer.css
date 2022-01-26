@@ -1,0 +1,34 @@
+.stopWatchWrapper{
+    margin-top: 20px;
+    background-color: lightyellow;
+    width: 50vh;
+    height: 50vh;
+}
+.buttonWrapper{
+    display:flex;
+    justify-content: space-around;
+}
+
+.dials{
+    padding-top: 10vh;
+    font-size: 10vh;
+    
+}
+.dials.green{
+    color: green;
+}
+
+.dials.red{
+    color: red;
+    font-size: 10vh;
+}
+
+input{
+    margin-top:10px;
+    width: 100px;
+    /*height:20px;*/
+
+}
+input, label {
+    font-size: 50px;
+}
